@@ -1,0 +1,15 @@
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.csprojAssemblyReference.cache
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\MainWindow.g.cs
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\App.g.cs
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2_MarkupCompile.cache
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2_MarkupCompile.lref
+C:\Users\DCostello\source\repos\CA2\CA2\bin\Debug\CA2.exe.config
+C:\Users\DCostello\source\repos\CA2\CA2\bin\Debug\CA2.exe
+C:\Users\DCostello\source\repos\CA2\CA2\bin\Debug\CA2.pdb
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\MainWindow.baml
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.g.resources
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.Properties.Resources.resources
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.csproj.GenerateResource.cache
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.csproj.CoreCompileInputs.cache
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.exe
+C:\Users\DCostello\source\repos\CA2\CA2\obj\Debug\CA2.pdb
